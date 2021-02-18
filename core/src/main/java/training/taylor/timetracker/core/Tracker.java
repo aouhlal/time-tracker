@@ -6,6 +6,11 @@ import training.taylor.timetracker.core.dao.TimeEntry;
 
 import java.util.List;
 
+/*
+	Feb 17, 2021
+	Abdelhak Ouhlal added these comments to help new devs to get 
+	up to speed fast.
+*/
 @Component
 public class Tracker {
     @Autowired
